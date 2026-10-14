@@ -82,6 +82,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AI Trader Team](https://github.com/TLSRUF/ai-trader-team) - Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.
 - [Bargo Congress API](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
 - [financeskills](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
+- [roic.ai Agents Plugin](https://github.com/roicai/agents-plugin) - Agent skills and MCP config for company fundamentals, ratios and earnings call transcripts in Claude, ChatGPT and Cursor.
 
 ## MCP Servers
 
